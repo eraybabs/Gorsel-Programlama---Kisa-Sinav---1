@@ -1,0 +1,42 @@
+C:\Users\eray_\Desktop\gpödev\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.exe
+C:\Users\eray_\Desktop\gpödev\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.deps.json
+C:\Users\eray_\Desktop\gpödev\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.runtimeconfig.json
+C:\Users\eray_\Desktop\gpödev\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.runtimeconfig.dev.json
+C:\Users\eray_\Desktop\gpödev\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.dll
+C:\Users\eray_\Desktop\gpödev\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.pdb
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.AssemblyInfoInputs.cache
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.AssemblyInfo.cs
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.dll
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.pdb
+C:\Users\eray_\Desktop\gpödev\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.genruntimeconfig.cache
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.AssemblyInfoInputs.cache
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.AssemblyInfo.cs
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.dll
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.pdb
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.exe
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.deps.json
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.runtimeconfig.json
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.runtimeconfig.dev.json
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.dll
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.pdb
+C:\Users\eray_\Desktop\Eray_ALTUN_1190505007\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.genruntimeconfig.cache
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.exe
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.deps.json
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.runtimeconfig.json
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.runtimeconfig.dev.json
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.dll
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\bin\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.pdb
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.AssemblyInfoInputs.cache
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.AssemblyInfo.cs
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.dll
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.pdb
+C:\Users\eray_\Desktop\projeler\Görsel Programlama - Kısa Sınav - 1\gpödev\obj\Debug\netcoreapp3.1\Eray_ALTUN_1190505007.genruntimeconfig.cache

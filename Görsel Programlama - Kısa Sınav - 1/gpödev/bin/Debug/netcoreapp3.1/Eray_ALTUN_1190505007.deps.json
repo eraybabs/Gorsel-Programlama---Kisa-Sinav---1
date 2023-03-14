@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Eray_ALTUN_1190505007/1.0.0": {
+        "runtime": {
+          "Eray_ALTUN_1190505007.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eray_ALTUN_1190505007/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
